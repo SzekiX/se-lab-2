@@ -4,6 +4,7 @@ This is a sample application for the [Software Engineering](http://www.mit.bme.h
 
 The application is simplified and deliberately contains bugs.
 
+
 ## Getting started
 
 - The project is implemented in Java 11.
